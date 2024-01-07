@@ -1,0 +1,4 @@
+pack,name,featured_chars,image_url,cost
+character,Featured Character Pack,None,premium
+item,Item Pack,None,premium
+standard,Standard pack,None,standard
